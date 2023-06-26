@@ -6,12 +6,12 @@ This is a project of a glass-effect login screen developed using HTML and CSS. T
 
 To run this project, you need to have a modern web browser installed on your computer, such as Google Chrome, Mozilla Firefox, Microsoft Edge, among others.
 
-## Usage Instructions
+## 𝗨𝘀𝗮𝗴𝗲 𝗜𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀
 
 1. Download or clone the project repository to your computer.
 2. Open the `index.html` file in your web browser.
 
-## Project Structure
+## 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗦𝘁𝗿𝘂𝗰𝘁𝘂𝗿𝗲
 
 The project consists of three main files:
 
