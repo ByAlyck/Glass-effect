@@ -2,7 +2,7 @@
 
 This is a project of a glass-effect login screen developed using HTML and CSS. The screen has a modern and elegant design with a professional and transparent appearance that simulates a glass effect.
 
-## Prerequisites
+## 𝗣𝗿𝗲𝗿𝗲𝗾𝘂𝗶𝘀𝗶𝘁𝗲𝘀
 
 To run this project, you need to have a modern web browser installed on your computer, such as Google Chrome, Mozilla Firefox, Microsoft Edge, among others.
 
