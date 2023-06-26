@@ -19,7 +19,7 @@ The project consists of three main files:
 2. *style.css*: This CSS file contains all the styles applied to the page, including the styles for the glass effect.
 3. *background.jpg*: This is the background image used to create the glass effect. You can replace this image with another of your preference, as long as the `background-image` property in the `style.css` file is updated correctly.
 
-## Customization
+## 𝗖𝘂𝘀𝘁𝗼𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
 
 You can customize the project according to your preferences. Here are some customization suggestions:
 
